@@ -1,0 +1,26 @@
+{
+  "name": "prismic-app-example",
+  "version": "1.0.0",
+  "description": "prismic app example",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbeff/prismic-app-example.git"
+  },
+  "author": "Daniel Beff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbeff/prismic-app-example/issues"
+  },
+  "homepage": "https://github.com/dbeff/prismic-app-example#readme",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-env": "^1.1.8",
+    "image-webpack-loader": "^3.1.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.0-rc.3"
+  }
+}
